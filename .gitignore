@@ -1,0 +1,6 @@
+#Ignore notes
+python_course_notes
+
+#Ignore venv
+virtual_repo
+
